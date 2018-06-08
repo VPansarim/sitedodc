@@ -1,0 +1,8 @@
+.campos-invalidos {
+	display: block;
+	background-color: #ddd;
+}
+
+.was-validated .form-check-input:valid ~ .form-check-label {
+	color: #000;
+}
